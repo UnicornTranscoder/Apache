@@ -1,6 +1,6 @@
 ## Apache configuration
 
-This repository contains Apache configuration examples for the UnicornTranscoder project. It still has a few bugs but seems to work well enough to stream through a browser, Android phone/tv, iPhone, and Roku after there latest app update.
+This repository contains Apache configuration examples for the UnicornTranscoder project.
 
 ## UnicornTranscoder Project
 
